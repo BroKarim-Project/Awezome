@@ -1,8 +1,18 @@
-# React + Vite
+<h1 align="center">Awezome</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshot
+![screencapture-localhost-5173-2024-02-09-15_09_46](https://github.com/BroKarim-Project/Awezome/assets/146515339/8cb030be-da35-4920-8d84-035cd6b36550)
 
-Currently, two official plugins are available:
+## Feature
+- Responsive Navbar
+- Multiple Tab
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Development Setup
+Clone the repository and run the following commands:
+```
+npm install
+npm run dev
+```
+
+Made with 💓 By BroKarim
+
